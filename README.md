@@ -1,8 +1,6 @@
-# Repo to learn Docker with examples. Contributions are most welcome.
+# Docker with examples. I want you to know that contributions are most welcome.
 
 ## If you found this repo useful, give it a STAR 🌠
-
-You can watch the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
 
 
 ## What is a container ?
@@ -255,7 +253,7 @@ This message shows that your installation appears to be working correctly.
 ### Clone this repository and move to example folder
 
 ```
-git clone https://github.com/iam-veeramalla/Docker-Zero-to-Hero
+git clone https://github.com/humphreydev5/Docker-for-DevOps
 cd  examples
 ```
 
@@ -359,4 +357,4 @@ c5ff2d88f679: Mounted from library/ubuntu
 latest: digest: sha256:6e49841ad9e720a7baedcd41f9b666fcd7b583151d0763fe78101bb8221b1d88 size: 1157
 ```
 
-### You must be feeling like a champ already 
+### You must be feeling like a champ already. Weldone for coming this far 👍🏽 
