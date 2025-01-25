@@ -265,7 +265,7 @@ docker login
 
 ```
 Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
-Username: humphreydev5
+Username: cogent3
 Password:
 WARNING! Your password will be stored unencrypted in /home/ubuntu/.docker/config.json.
 Configure a credential helper to remove this warning. See
@@ -279,7 +279,7 @@ Login Succeeded
 You need to change the username accoringly in the below command
 
 ```
-docker build -t abhishekf5/my-first-docker-image:latest .
+docker build -t cogent3/my-first-docker-image:latest .
 ```
 
 Output of the above command
@@ -330,7 +330,7 @@ hello-world                        latest    feb5d9fea6a5   16 months ago    13.
 ### Run your First Docker Container
 
 ```
-docker run -it humphreydev5/my-first-docker-image
+docker run -it cogent3/my-first-docker-image
 ```
 
 Output
